@@ -1,9 +1,6 @@
-
-# Assignment 10
+Weather Forecast Application
 
 - Author: Abhishek Hegde
-- NUID: 002744522
-- Email: hegde.ab@northeastern.edu
 
 ## Building a weather forecasting application using REACT
 
